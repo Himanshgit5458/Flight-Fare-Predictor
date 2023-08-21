@@ -2,6 +2,13 @@
 
 Welcome to the Flight Price Predictor project! This project is aimed at estimating flight fares using Machine Learning Time Series Analysis techniques. The goal is to provide users with an estimated fare for their journey based on historical flight fare data.
 
+
+
+https://github.com/Himanshgit5458/Flight-Fare-Predictor/assets/96855684/5af413e5-9bb6-4375-8790-f72b6420002d
+
+
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
