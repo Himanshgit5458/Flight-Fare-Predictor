@@ -52,11 +52,3 @@ The user interface was created to allow users to input their journey details, su
 2. Install the required dependencies using `pip install -r requirements.txt`.
 3. Run the UI using `python app.py`.
 4. Access the UI in your web browser at the provided URL.
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please follow the [Contributing Guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
