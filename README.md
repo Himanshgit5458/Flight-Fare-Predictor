@@ -17,9 +17,6 @@ https://github.com/Himanshgit5458/Flight-Fare-Predictor/assets/96855684/5af413e5
 - [Data Cleaning](#data-cleaning)
 - [Model Building](#model-building)
 - [UI Creation and Deployment](#ui-creation-and-deployment)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
